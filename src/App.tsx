@@ -1,9 +1,7 @@
+import MoodBoard from "./components/MoodBoard";
+
 const App = () => {
-  return (
-    <div>
-      <p>hello</p>
-    </div>
-  );
+  return <MoodBoard />;
 };
 
 export default App;
