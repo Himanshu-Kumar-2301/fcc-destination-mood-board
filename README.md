@@ -22,7 +22,7 @@ This project demonstrates **component-based design**, **state management with ho
 
 ## 📸 Screenshots
 
-![Color Picker App](./src/assets/screenshot.jpeg)
+![Destination Mood Board](./src/assets/screenshot.jpeg)
 
 ---
 
@@ -57,7 +57,7 @@ root/
 
 ---
 
-🧑‍💻 How to Run Locally
+## 🧑‍💻 How to Run Locally
 
 1. Clone the repo:
 
