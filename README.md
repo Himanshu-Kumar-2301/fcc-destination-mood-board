@@ -7,7 +7,7 @@ This project demonstrates **component-based design**, **state management with ho
 
 ## 🚀 Live Demo
 
-[View Project](https://hianshu-kumar-2301.github.io/fcc-destination-mood-board/)
+[View Project](https://himanshu-kumar-2301.github.io/fcc-destination-mood-board/)
 
 ---
 
